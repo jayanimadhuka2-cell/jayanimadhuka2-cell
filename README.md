@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**jayanimadhuka2-cell/jayanimadhuka2-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jayani Madhuka! 👋
 
-Here are some ideas to get you started:
+🎓 Information Technology Undergraduate  
+💻 Aspiring Software Developer  
+🌱 Interested in Web Development, Programming, and Database Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- I'm an Information Technology undergraduate.
+- I'm passionate about learning new technologies and building practical projects.
+- I enjoy solving problems and improving my programming skills.
+- Currently developing my skills in Web Development and Software Development.
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+- Java
+- Python
+- JavaScript
+
+**Web Development**
+- HTML5
+- CSS3
+- Flask
+
+**Database**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+
+## 🚀 Projects
+
+### 1. HostelVista – Hostel Management System
+A web-based hostel management system with student and admin functionalities.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, MongoDB
+
+### 2. Cinema Ticket Booking System
+A Java project developed to practise Object-Oriented Programming concepts.
+
+**Technologies:** Java
+
+## 🎯 Currently Learning
+
+- Web Development
+- Object-Oriented Programming
+- Database Management
+- Software Development
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/jayani-madhuka-37849a339)
+- GitHub: [My GitHub Profile](https://github.com/jayanimadhuka2-cell)
+
+---
+
+⭐ Thanks for visiting my profile!
